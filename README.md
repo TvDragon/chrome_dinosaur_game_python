@@ -51,3 +51,19 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
         sudo apt-get install python3-pygame
 
 ### Installing
+1. You can either download the zip file and unzip it or clone the repository
+
+        git clone https://github.com/TvDragon/chrome_dinosaur_game_python.git
+
+## Usage
+
+1. Once you have unzipped the file or cloned the repository move into the folder
+2. Open up command prompt or a terminal and enter the one of the commands below and you can start playing
+
+        python3 main.py
+        python main.py
+
+## Playing the game
+
+- Jump - up arrow key
+- Shoot fireball - space bar
