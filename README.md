@@ -41,10 +41,10 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
 
         pip3 –version
 
-If pip doesn't exist then enter the command below and check the version by doing
+    If pip doesn't exist then enter the command below and check the version by doing
 
-    sudo apt install python3-pip
-    pip3 -V
+        sudo apt install python3-pip
+        pip3 -V
 
 3. Install pygame by entering the command below in terminal
 
