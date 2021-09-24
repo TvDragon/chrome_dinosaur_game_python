@@ -20,13 +20,15 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
 
         python --version
 
+If you have any version of python 3.x.x then you are good to continue.
+
 4. To install the pygame module you need to make sure that you have pip first. To check open up command prompt and type in
 
         pip --version
 
-5. If you have pip great and if it asks you to update pip then follow the steps that it shows you. If you do not have pip installed then you can follow this [installation](https://www.liquidweb.com/kb/install-pip-windows/) guide.
+If you have pip great and if it asks you to update pip then follow the steps that it shows you. If you do not have pip installed then you can follow this [installation](https://www.liquidweb.com/kb/install-pip-windows/) guide.
 
-6. Once you have pip and python. You can install pygame by opening command prompt and typing in
+5. Once you have pip and python. You can install pygame by opening command prompt and typing in
 
         pip install pygame
 
