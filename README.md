@@ -18,26 +18,26 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
 2. Find where you downloaded the installer to and click on the installer to download python
 3. Check what version of python you are using by opening up command prompt and type in
 
-    python --version
+        python --version
 
 4. To install the pygame module you need to make sure that you have pip first. To check open up command prompt and type in
 
-    pip --version
+        pip --version
 
 5. If you have pip great and if it asks you to update pip then follow the steps that it shows you. If you do not have pip installed then you can follow this [installation](https://www.liquidweb.com/kb/install-pip-windows/) guide.
 
 6. Once you have pip and python. You can install pygame by opening command prompt and typing in
 
-    pip install pygame
+        pip install pygame
 
 #### Installing prerequisites on Ubuntu/Debian
 1. First install python by opening up the terminal and enter the command
 
-    sudo apt-get install python3.8
+        sudo apt-get install python3.8
 
 2. Check that pip is install by typing in
 
-    pip3 –version
+        pip3 –version
 
 If pip doesn't exist then enter the command below and check the version by doing
 
@@ -46,6 +46,6 @@ If pip doesn't exist then enter the command below and check the version by doing
 
 3. Install pygame by entering the command below in terminal
 
-    sudo apt-get install python3-pygame
+        sudo apt-get install python3-pygame
 
 ### Installing
