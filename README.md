@@ -20,7 +20,6 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
 
     python --version
 
-If your python version starts with a 3.x.x then you are good.
 4. To install the pygame module you need to make sure that you have pip first. To check open up command prompt and type in
 
     pip --version
