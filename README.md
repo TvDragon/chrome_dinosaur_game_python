@@ -57,7 +57,7 @@ This projected was inspired by the typical chrome dinosaur game being too easy s
 
 ## Usage
 
-1. Once you have unzipped the file or cloned the repository move into the folder
+1. Once you have installed the prerequisites, unzipped the file or cloned the repository move into the folder
 2. Open up command prompt or a terminal and enter the one of the commands below and you can start playing
 
         python3 main.py
