@@ -4,7 +4,7 @@ For this project you are playing the typical chrome dinosaur game except that yo
 
 ## Motivation
 
-This projected was inspired by the typical chrome dinosaur game being too easy so I decided to make one where the enemies would spawn randomly and allow you to shoot fireballs. Just know that this game requires both luck and skill.
+This is based of the classic T-Rex Dinosaur Game that you played when opened your browser and realised you had no internet. However, the thing is that game was too easy so to make it more challenging the trees and pterodactyl are now able to spawn more randomly and could be grouped together much closer. This would be a bit too difficult of course since you wouldn't make it far so you have the ability to shoot fireballs too. You are only allowed to shoot three fireballs at a time and there is a waiting period between each fireball to be shot. Just know that this game requires both luck and skill to get far.
 
 ## Getting Started
 
