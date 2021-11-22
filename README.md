@@ -63,7 +63,7 @@ This is based of the classic T-Rex Dinosaur Game that you played when opened you
         python3 main.py
         python main.py
 
-## Playing the game
+## Controls
 
 - Jump - up arrow key
 - Shoot fireball - space bar
